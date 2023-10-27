@@ -126,15 +126,25 @@ np.mean(predict(res.x,X) == y)
 
 ```
 ## Output:
+1. Array of X
 ![image](https://github.com/Jai-Pradhiksha/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/100289733/df3da620-b64f-459d-9140-b130b2105464)
+2. Array of Y
 ![image](https://github.com/Jai-Pradhiksha/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/100289733/4e71ce41-ef0e-4d77-9c28-e47bf33af5db)
+3. Score Graph
 ![image](https://github.com/Jai-Pradhiksha/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/100289733/cf8b5db0-7127-41c3-aa39-397fceb3b01d)
+4. Sigmoidal function graph
 ![image](https://github.com/Jai-Pradhiksha/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/100289733/14841f14-a279-49ef-860a-6b07e3d0a420)
+5. X train grad value
 ![image](https://github.com/Jai-Pradhiksha/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/100289733/f367e90d-5bd6-42ca-9e10-99b0b2753b38)
+6. Y train grad value
 ![image](https://github.com/Jai-Pradhiksha/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/100289733/f58dc85a-bba0-4926-9120-37a233d02720)
+7. Print res.x
 ![image](https://github.com/Jai-Pradhiksha/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/100289733/11a65a8a-7ce2-496b-9f4a-9635f7da8d66)
+8. Decision boundary - graph for exam score
 ![image](https://github.com/Jai-Pradhiksha/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/100289733/565bbab9-80d2-42ba-8eaa-dcdfebe6985d)
+9. Probability value
 ![image](https://github.com/Jai-Pradhiksha/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/100289733/5263eda1-0adc-4476-a176-027454009933)
+10. Prediction value of mean
 ![image](https://github.com/Jai-Pradhiksha/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/100289733/b272b09a-b3e3-4fb0-883c-1d2b1bf72c8b)
 
 
